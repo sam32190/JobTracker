@@ -12,12 +12,12 @@ This is a Job Application Tracker that allows users to:
 
     -> Bookmark jobs for later.
 
-    -> Receive  job notifications using ContextAPI.
+    -> Receive job notifications using ContextAPI.
 
-    -> Search, filter, jobs by various parameters.
+    -> Search, filter jobs by various parameters.
 
 
-----------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------
 
 🚀 Tech Stack
 
@@ -37,20 +37,20 @@ This is a Job Application Tracker that allows users to:
 
 Make sure you have the following installed:
 
-    Node.js (for React frontend)
+    1. Node.js (for React frontend)
 
-    .NET 8.0 SDK (for ASP.NET Core backend)
+    2. .NET 8.0 SDK (for ASP.NET Core backend)
 
-    SQL Server (for the database)
+    3. SQL Server (for the database)
 
-    Postman, Swagger (optional, for testing API endpoints)
+    4. Postman, Swagger (optional, for testing API endpoints)
 
 ------------------------------------------------------------------------------------------------------
 
 1️⃣ Clone the Repository
 
-    -> git clone https://github.com/sam32190/JobApplicationTracker.git
-    -> cd JobApplicationTracker
+    -> git clone https://github.com/sam32190/JobTracker.git
+    -> cd Job Tracker Project
 
 2️⃣ Setup & Run Backend (ASP.NET Core)
 
